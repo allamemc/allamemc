@@ -3,9 +3,9 @@
 
 Programador Junior aprendiendo cada vez mas, rápida adaptación al trabajo y muy resolutivo, con ganas de empezar en el mundo laboral. Tenéis todos mis proyectos en el tablón de GitHub.
 
-Skills: HTML / CSS / BootStrap / PHP / Python / SQL
+Skills: HTML / CSS / JS / PHP / Python / SQL / Java
 
-- 🌱 Estoy aprendiendo Java | REACT | Angular | NodeJS 
+- 🌱 Estoy aprendiendo REACT | NodeJS 
 - 📫 Cómo contactarme: allamemc@gmail.com 
 
 
