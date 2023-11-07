@@ -1,9 +1,9 @@
 ## Hola 👋, me llamo Allam
-#### Junior Developer
+#### Software Developer
 
-Programador Junior aprendiendo cada vez más. Tenéis todos mis proyectos en el tablón de GitHub.
+Tenéis todos mis proyectos en el tablón de GitHub.
 
-Stack: React, Java EE 8, Python 3, BootStrap y TailWind. Jest y Git
+Stack: React, Node JS, Java, Python, BootStrap y TailWind.
 
 - 🌱 Estoy aprendiendo Next.JS
 - 📫 Cómo contactarme: allamemc@gmail.com 
