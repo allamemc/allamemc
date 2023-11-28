@@ -9,7 +9,7 @@ Technologies: HTML5, CSS3, JavaScript ES6, Node, Express, Java, Python
 - 📫 How to contact me: allamemc@gmail.com
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/allamemc)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/allam-miranda-carrasco-368429256)  
+[<a href="https://allam-dev.vercel.app/">Portfolio</a>]  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/allam-miranda-carrasco-368429256)  
 
 
 
