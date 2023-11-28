@@ -3,8 +3,8 @@
 
 You have all my projects on the GitHub board.
 
-Technologies: HTML5, CSS3, JavaScript ES6, Node, Express, Java, Python, Mongo DB, SQL
-Additional Tools:: Git, Slack, Fly.io, Vercel
+Technologies: HTML5, CSS3, JavaScript ES6, Node, Express, Java, Python, Mongo DB, SQL<br>
+Additional Tools: Git, Slack, Fly.io, Vercel<br>
 Methodologies: Agile
 
 
