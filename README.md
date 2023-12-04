@@ -5,7 +5,7 @@
 
 - 🌱 Learning **React & Spring**
 
-- 👨‍💻 All of my projects are available at my <a href="https://allam-dev.fly.dev/">Portfolio</a>
+- 👨‍💻 All of my projects are available at my <a href="https://allam-dev.fly.dev/">**Portfolio**</a>
 
 - 📫 How to reach me **allamemc@gmail.com**
 
