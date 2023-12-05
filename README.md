@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at my <a href="https://allam-dev.fly.dev/">**Portfolio**</a>
 
-- ☎️ Connect with me <a href="https://linkedin.com/in/https://www.linkedin.com/in/allam-miranda-carrasco/">**LinkedIn**</a>
+- ☎️ Connect with me <a href="https://www.linkedin.com/in/allam-miranda-carrasco/">**LinkedIn**</a>
 
 - 📫 How to reach me **allamemc@gmail.com**
 
