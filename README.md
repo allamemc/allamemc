@@ -1,6 +1,6 @@
-<h1 align="left">Hi everyone 👋, I'm Allam</h1>
-<h3 align="left">A passionate software developer from Spain</h3>
+# 🍃 Allam EMC
 
+**`Software Developer`**
 
 - 🔭 I’m currently studying **Web Development**
 
@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at my <a href="https://allam-dev.fly.dev/">**Portfolio**</a>
 
-- ☎️ Connect with me <a href="https://www.linkedin.com/in/allam-miranda-carrasco/">**LinkedIn**</a>
+- ☎️ Connect with me at <a href="https://www.linkedin.com/in/allam-miranda-carrasco/">**LinkedIn**</a>
 
 - 📫 How to reach me **allamemc@gmail.com**
 
