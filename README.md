@@ -8,7 +8,7 @@ I'm a Software developer who enjoys the process of learning and creating applica
 * 🌍  I'm based in Madrid, Spain
 * 🖥️  See my portfolio at [Allam Dev](https://allam-dev.vercel.app/)
 * ✉️  You can contact me at [allamemc@gmail.com](mailto:allamemc@gmail.com)
-* 🚀  I'm currently working on [Note Nest](http://note-nest-c.fly.dev/)
+* 🚀  I'm currently working on [Bear Plan](http://note-nest-c.fly.dev/)
 * 🧠  I'm learning React Native and Spring
 
 ### Skills
